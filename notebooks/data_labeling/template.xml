@@ -1,0 +1,9 @@
+<View>
+
+  <Header value="Select label and click the image to start"/>
+  <Image name="image" value="$images" zoom="true"/>
+  <PolygonLabels name="label" toName="image" strokeWidth="3" pointSize="small" opacity="0.9">
+
+  <Label value="1p" background="#FFA39E"/><Label value="2p" background="#D4380D"/><Label value="3p" background="#FFC069"/><Label value="4p" background="#AD8B00"/><Label value="5p" background="#D3F261"/><Label value="6p" background="#389E0D"/><Label value="7p" background="#5CDBD3"/><Label value="8p" background="#096DD9"/><Label value="9p" background="#ADC6FF"/><Label value="1m" background="#9254DE"/><Label value="2m" background="#F759AB"/><Label value="3m" background="#FFA39E"/><Label value="4m" background="#D4380D"/><Label value="5m" background="#FFC069"/><Label value="6m" background="#AD8B00"/><Label value="7m" background="#D3F261"/><Label value="8m" background="#389E0D"/><Label value="9m" background="#5CDBD3"/><Label value="1s" background="#096DD9"/><Label value="2s" background="#ADC6FF"/><Label value="3s" background="#9254DE"/><Label value="4s" background="#F759AB"/><Label value="5s" background="#FFA39E"/><Label value="6s" background="#D4380D"/><Label value="7s" background="#FFC069"/><Label value="8s" background="#AD8B00"/><Label value="9s" background="#D3F261"/><Label value="1z" background="#389E0D"/><Label value="2z" background="#5CDBD3"/><Label value="3z" background="#096DD9"/><Label value="4z" background="#ADC6FF"/><Label value="5z" background="#9254DE"/><Label value="6z" background="#F759AB"/><Label value="7z" background="#FFA39E"/><Label value="UNKNOWN" background="#D4380D"/></PolygonLabels>
+
+</View>

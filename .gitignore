@@ -1,0 +1,9 @@
+
+/data_labeling/runs
+yolo11*.pt
+/machine_learning/yolo/runs
+/results/training
+/results
+/.claude
+models/mahjong-yolo.pt
+*.mlmodel
