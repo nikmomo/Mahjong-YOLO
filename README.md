@@ -273,8 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Zhen Zhang** - TODO: Add your email
-- **Yiyun Huang** - TODO: Add your email
+- **Zhen Zhang** - zhenz@vt.edu
+- **Yiyun Huang** - yiyunh@vt.edu
 
 ## 🙏 Acknowledgments
 
